@@ -52,3 +52,8 @@ this is a numbered list
 
 ~~this is strikethrough text~~
 
+this is a horizontal rule
+
+---
+
+this is a horizontal rule
