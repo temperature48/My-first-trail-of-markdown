@@ -5,4 +5,5 @@
 
 [this is a link to README.md](./README.md)
 
-![test](https://i.pximg.net/img-original/img/2022/05/16/00/00/03/98376241_p0.png)
+the following picture is from the directory
+![picture from the directory](./Jeanne_d'Arc_alter.jpg)
